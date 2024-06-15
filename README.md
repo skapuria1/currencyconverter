@@ -1,7 +1,7 @@
 # currencyconverter
 This Python script serves as a currency converter, allowing users to obtain conversion rates for a specified base currency against multiple other currencies using the FreeCurrencyAPI.
 
-Requirements
+#Requirements
 Python 3.x
 requests library (pip install requests)
 Usage
