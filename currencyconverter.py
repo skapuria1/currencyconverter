@@ -20,7 +20,7 @@ def convert_currency(base):
 
 
 while True:
-    base = input("Enter currency to convert:     X = QUIT").upper()
+    base = input("Enter currency to convert:    X = QUIT").upper()
 
     if base == "X":
         break
